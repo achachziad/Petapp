@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_add_pet">AddPetActivity</string>
+    <string name="title_activity_show">ActivityShow</string>
+    <string name="title_activity_param_activty">ParamActivty</string>
+
+
+</resources>
+

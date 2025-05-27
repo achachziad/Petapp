@@ -1,0 +1,42 @@
+<resources>
+    <!-- Noms -->
+    <string-array name="pet_nom">
+        <item>Buddy</item>
+        <item>Max</item>
+        <item>Rocky</item>
+        <item>Charlie</item>
+        <item>Whiskers</item>
+        <item>Kitty</item>
+        <item>Luna</item>
+        <item>Spirit</item>
+        <item>Thunder</item>
+        <item>Fluffy</item>
+    </string-array>
+
+    <!-- Especes -->
+    <string-array name="pet_espece">
+        <item>Chien</item>
+        <item>Chien</item>
+        <item>Chien</item>
+        <item>Chien</item>
+        <item>Chat</item>
+        <item>Chat</item>
+        <item>Chat</item>
+        <item>Cheval</item>
+        <item>Cheval</item>
+        <item>Lapin</item>
+    </string-array>
+    <!-- Descriptions -->
+    <string-array name="pet_activities">
+        <item>Promenade matinale dans le parc</item>
+        <item>Visite chez le vétérinaire pour un contrôle de routine</item>
+        <item>Toilettage complet et coupe des griffes</item>
+        <item>Session de jeu avec une balle dans le jardin</item>
+        <item>Entraînement aux ordres de base</item>
+        <item>Pêche des jouets dans l\'eau</item>
+        <item>Sieste à l\'ombre après un repas</item>
+        <item>Course rapide pour attraper un frisbee</item>
+        <item>Exploration de nouveaux sentiers en forêt</item>
+        <item>Rencontre avec d\'autres animaux au parc</item>
+    </string-array>
+</resources>
